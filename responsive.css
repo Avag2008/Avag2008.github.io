@@ -1,0 +1,973 @@
+@media screen and (max-height:1200px) {
+    .img1 {
+        position: relative;
+        width: 512px;
+        top: 689px;
+        left: 15px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 565px;
+        left: 126px;
+        width: 302px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 286px;
+        top: 605px;
+        left: -167px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: -56px;
+        left: 165px;
+        width: 236px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: -62px;
+        left: -52px;
+        width: 195px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -96px;
+        left: -220px;
+        width: 151px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .img7 {
+        position: relative;
+        top: -996px;
+        right: -133px;
+        width: 284px;
+    }
+
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        font-size: 44px;
+        color: white;
+        position: relative;
+        top: -843px;
+        left: -7px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+    }
+}
+
+@media screen and (max-height:1100px) {
+    .img1 {
+        position: relative;
+        width: 461px;
+        top: 682px;
+        left: 48px;
+    }
+
+    .img3 {
+        position: relative;
+        top: 480px;
+        left: -52px;
+        width: 213px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -248px;
+        left: -198px;
+        width: 201px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 602px;
+        left: 149px;
+        width: 267px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 241px;
+        top: 638px;
+        left: -116px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: 479px;
+        left: 163px;
+        width: 224px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img7 {
+        position: relative;
+        top: -1264px;
+        right: 43px;
+        width: 228px;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1169px;
+        left: -9px;
+        font-size: 40px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1210px;
+        left: -21px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1210px;
+        font-size: 50px;
+        left: -21px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .img6 {
+        position: relative;
+        top: -1378px;
+        left: -49px;
+        width: 264px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+
+    .img5 {
+        position: relative;
+        top: -1171px;
+        left: 192px;
+        width: 189px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img5 10s;
+        animation-delay: 8s;
+        animation-fill-mode: backwards;
+    }
+}
+
+@media screen and (maxx-height: 1000px) {
+    .img1 {
+        position: relative;
+        width: 537px;
+        top: 519px;
+        left: 8px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 580px;
+        left: 149px;
+        width: 267px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 241px;
+        top: 613px;
+        left: -105px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: 457px;
+        left: 174px;
+        width: 224px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: 461px;
+        left: -52px;
+        width: 213px;
+    }
+    .img4 {
+        position: relative;
+        top: -390px;
+        left: 183px;
+        width: 203px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+        
+    }
+
+    .img7 {
+        position: relative;
+        top: -1264px;
+        right: 87px;
+        width: 264px;
+    }
+
+    .img6 {
+        position: relative;
+        top: -1381px;
+        left: 108px;
+        width: 352px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        font-size: 36px;
+        top: -1133px;
+        left: -11px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1228px;
+        left: -21px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        font-size: 44px;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1210px;
+        font-size: 36px;
+        left: -21px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .img5 {
+        position: relative;
+        top: -1200px;
+        left: 142px;
+        width: 293px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img5 10s;
+        animation-delay: 8s;
+        animation-fill-mode: backwards;
+    }
+}
+@media screen and (max-height: 900px) {
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1210px;
+        font-size: 35px;
+        left: -21px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1210px;
+        left: -21px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        font-size: 35px;
+        animation-fill-mode: backwards;
+    }
+
+    .img1 {
+        position: relative;
+        width: 461px;
+        top: 507px;
+        left: 48px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 407px;
+        left: 149px;
+        width: 267px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 241px;
+        top: 440px;
+        left: -111px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: 283px;
+        left: 163px;
+        width: 224px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: 286px;
+        left: -52px;
+        width: 213px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -585px;
+        left: 185px;
+        width: 201px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1227px;
+        left: -19px;
+        font-size: 33px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1290px;
+        left: -18px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        font-size: 35px;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1246px;
+        font-size: 27px;
+        left: -21px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .img6 {
+        position: relative;
+        top: -1466px;
+        left: -49px;
+        width: 264px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+
+    .img5 {
+        position: relative;
+        top: -1324px;
+        left: 181px;
+        width: 189px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img5 10s;
+        animation-delay: 8s;
+        animation-fill-mode: backwards;
+    }
+}
+
+@media screen and (max-height: 800px) {
+    .img1 {
+        position: relative;
+        width: 488px;
+        top: 406px;
+        left: 37px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 297px;
+        left: 142px;
+        width: 285px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 253px;
+        top: 329px;
+        left: -127px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: -303px;
+        left: 199px;
+        width: 181px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: -296px;
+        left: 20px;
+        width: 172px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -329px;
+        left: -136px;
+        width: 143px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .img7 {
+        position: relative;
+        top: -994px;
+        right: -151px;
+        width: 231px;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -953px;
+        left: -7px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        font-size: 34px;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+        font-size: 30px;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1017px;
+        left: -21px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1015px;
+        font-size: 27px;
+        left: -21px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+
+    .img6 {
+        position: relative;
+        top: -1181px;
+        left: 12px;
+        width: 200px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+
+    .img5 {
+        position: relative;
+        top: -811px;
+        left: 192px;
+        width: 189px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img5 10s;
+        animation-delay: 8s;
+        animation-fill-mode: backwards;
+    }
+}
+
+@media screen and (max-height: 700px) {
+    .img7 {
+        position: relative;
+        top: -1015px;
+        right: -167px;
+        width: 231px;
+    }
+
+    .img7 {
+        position: relative;
+        top: -975px;
+        right: -152px;
+        width: 231px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 228px;
+        left: 142px;
+        width: 285px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 253px;
+        top: 264px;
+        left: -127px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: -367px;
+        left: 199px;
+        width: 181px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: -362px;
+        left: 20px;
+        width: 172px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -385px;
+        left: -136px;
+        width: 143px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1065px;
+        font-size: 27px;
+        left: -34px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1065px;
+        font-size: 27px;
+        left: 0px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -1122px;
+        left: 0px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+    }
+
+    .img5 {
+        position: relative;
+        top: -1040px;
+        left: 192px;
+        width: 189px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img5 10s;
+        animation-delay: 8s;
+        animation-fill-mode: backwards;
+    }
+
+    .img6 {
+        position: relative;
+        top: -1173px;
+        left: -9px;
+        width: 200px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+
+    .img6 {
+        position: relative;
+        top: -1173px;
+        left: 1px;
+        width: 200px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -998px;
+        left: -7px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        font-size: 34px;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+        font-size: 29px;
+    }
+
+
+}
+
+@media screen and (max-height: 600px) {
+    .img7 {
+        position: relative;
+        top: -915px;
+        right: -191px;
+        width: 177px;
+    }
+
+    .img1 {
+        position: relative;
+        width: 407px;
+        top: 280px;
+        left: 80px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 167px;
+        left: 165px;
+        width: 249px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 253px;
+        top: 205px;
+        left: -89px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: -364px;
+        left: 199px;
+        width: 181px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: -367px;
+        left: 20px;
+        width: 172px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -389px;
+        left: -135px;
+        width: 129px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -926px;
+        left: -10px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+        font-size: 28px;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -997px;
+        left: -9px;
+        font-size: 25px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -985px;
+        font-size: 27px;
+        left: -11px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+
+    .img5 {
+        position: relative;
+        top: -939px;
+        left: 200px;
+        width: 167px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img5 10s;
+        animation-delay: 8s;
+        animation-fill-mode: backwards;
+    }
+
+    .img6 {
+        position: relative;
+        top: -1055px;
+        left: 14px;
+        width: 200px;
+        opacity: 0;
+        transform: scale(0);
+        animation: img6 10s;
+        animation-fill-mode: backwards;
+        animation-delay: 8s;
+    }
+}
+
+@media screen and (max-height: 550px) {
+    .img1 {
+        position: relative;
+        width: 400px;
+        top: 255px;
+        left: 75px;
+    }
+
+    .img2-1 {
+        position: relative;
+        top: 169px;
+        left: 161px;
+        width: 232px;
+    }
+
+    .img2-2 {
+        position: relative;
+        width: 200px;
+        top: 196px;
+        left: -55px;
+        transform: translateY(0);
+        animation: img22 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img2-3 {
+        position: relative;
+        top: -289px;
+        left: 199px;
+        width: 161px;
+        transform: translateY(0);
+        animation: img23 5s infinite;
+        animation-delay: 3s;
+    }
+
+    .img3 {
+        position: relative;
+        top: -299px;
+        left: 48px;
+        width: 138px;
+    }
+
+    .img4 {
+        position: relative;
+        top: -301px;
+        left: -77px;
+        width: 112px;
+        opacity: 1;
+        animation: luys 4s;
+        animation-delay: 11s;
+    }
+
+    .новая-сеть-наивной-рекламы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -774px;
+        left: -21px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: новая-сеть-наивной-рекламы 20s;
+        animation-delay: 18s;
+        animation-fill-mode: forwards;
+    }
+
+    .креативные-форматы {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -832px;
+        left: -21px;
+        transform: translateY(0) scale(0.5);
+        opacity: 0;
+        animation: креативные-форматы 6s;
+        animation-delay: 4s;
+        animation-fill-mode: backwards;
+    }
+
+    .высокая-эфективность {
+        text-align: center;
+        color: white;
+        position: relative;
+        top: -740px;
+        left: -21px;
+        transform: translateY(-100px) scale(0.5);
+        opacity: 0;
+        animation: высокая-эфективность 4s;
+        animation-delay: 0s;
+        animation-fill-mode: backwards;
+    }
+}
+@media screen and(max-width:543px) {
+
+}
